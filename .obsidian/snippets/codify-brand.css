@@ -1,0 +1,434 @@
+/* ============================================
+   CODIFY — Context Architecture Theme
+   "Context > Prompts"
+   ============================================ */
+
+/* --- Color System --- */
+:root {
+  /* Codify brand palette */
+  --codify-bg-primary: #0d1117;
+  --codify-bg-secondary: #161b22;
+  --codify-bg-tertiary: #1c2128;
+  --codify-bg-surface: #21262d;
+  --codify-border: #30363d;
+  --codify-border-subtle: #21262d;
+
+  --codify-text-primary: #e6edf3;
+  --codify-text-secondary: #8b949e;
+  --codify-text-muted: #6e7681;
+
+  --codify-accent: #58a6ff;
+  --codify-accent-warm: #d2a8ff;
+  --codify-accent-success: #3fb950;
+  --codify-accent-warning: #d29922;
+  --codify-accent-danger: #f85149;
+
+  --codify-link: #58a6ff;
+  --codify-tag: #d2a8ff;
+}
+
+/* --- Force dark mode overrides --- */
+.theme-dark {
+  --background-primary: var(--codify-bg-primary);
+  --background-primary-alt: var(--codify-bg-secondary);
+  --background-secondary: var(--codify-bg-secondary);
+  --background-secondary-alt: var(--codify-bg-tertiary);
+  --background-modifier-border: var(--codify-border);
+  --background-modifier-border-hover: var(--codify-border);
+  --background-modifier-border-focus: var(--codify-accent);
+
+  --text-normal: var(--codify-text-primary);
+  --text-muted: var(--codify-text-secondary);
+  --text-faint: var(--codify-text-muted);
+  --text-accent: var(--codify-accent);
+  --text-accent-hover: var(--codify-accent-warm);
+
+  --interactive-accent: var(--codify-accent);
+  --interactive-accent-hover: var(--codify-accent-warm);
+
+  --link-color: var(--codify-link);
+  --link-color-hover: var(--codify-accent-warm);
+  --link-unresolved-color: var(--codify-text-muted);
+
+  --tag-color: var(--codify-tag);
+  --tag-background: rgba(210, 168, 255, 0.1);
+}
+
+/* --- Typography --- */
+body {
+  --font-text-theme: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif;
+  --font-monospace-theme: "SF Mono", "Fira Code", "JetBrains Mono", monospace;
+  --font-interface-theme: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif;
+}
+
+/* --- Headings: direct, confident --- */
+.theme-dark h1,
+.theme-dark .HyperMD-header-1 {
+  color: var(--codify-text-primary);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  border-bottom: 1px solid var(--codify-border);
+  padding-bottom: 0.4em;
+  margin-top: 1.5em;
+}
+
+.theme-dark h2,
+.theme-dark .HyperMD-header-2 {
+  color: var(--codify-text-primary);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-top: 1.3em;
+}
+
+.theme-dark h3,
+.theme-dark .HyperMD-header-3 {
+  color: var(--codify-accent);
+  font-weight: 600;
+  margin-top: 1.1em;
+}
+
+.theme-dark h4,
+.theme-dark .HyperMD-header-4,
+.theme-dark h5,
+.theme-dark .HyperMD-header-5,
+.theme-dark h6,
+.theme-dark .HyperMD-header-6 {
+  color: var(--codify-text-secondary);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+}
+
+/* --- Sidebar styling --- */
+.theme-dark .workspace-leaf-content[data-type="file-explorer"] .nav-folder-title {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* Folder icons — cleaner */
+.theme-dark .nav-folder-title-content {
+  color: var(--codify-text-primary);
+}
+
+.theme-dark .nav-file-title-content {
+  color: var(--codify-text-secondary);
+}
+
+.theme-dark .nav-file-title:hover .nav-file-title-content,
+.theme-dark .nav-folder-title:hover .nav-folder-title-content {
+  color: var(--codify-accent);
+}
+
+/* Active file highlight */
+.theme-dark .nav-file-title.is-active {
+  background-color: rgba(88, 166, 255, 0.1);
+  border-left: 2px solid var(--codify-accent);
+}
+
+/* --- Tables: clean executive style --- */
+.theme-dark table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.theme-dark th {
+  background-color: var(--codify-bg-tertiary);
+  color: var(--codify-text-primary);
+  font-weight: 600;
+  text-align: left;
+  padding: 10px 14px;
+  border-bottom: 2px solid var(--codify-accent);
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.theme-dark td {
+  padding: 8px 14px;
+  border-bottom: 1px solid var(--codify-border-subtle);
+  color: var(--codify-text-secondary);
+}
+
+.theme-dark tr:hover td {
+  background-color: rgba(88, 166, 255, 0.04);
+}
+
+/* --- Blockquotes: for key insights --- */
+.theme-dark blockquote {
+  border-left: 3px solid var(--codify-accent);
+  background-color: rgba(88, 166, 255, 0.05);
+  padding: 12px 16px;
+  margin: 1em 0;
+  color: var(--codify-text-primary);
+  border-radius: 0 4px 4px 0;
+}
+
+/* --- Code blocks --- */
+.theme-dark code {
+  background-color: var(--codify-bg-tertiary);
+  color: var(--codify-accent);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.88em;
+}
+
+.theme-dark pre {
+  background-color: var(--codify-bg-tertiary) !important;
+  border: 1px solid var(--codify-border);
+  border-radius: 6px;
+  padding: 16px;
+}
+
+.theme-dark pre code {
+  background-color: transparent !important;
+  color: var(--codify-text-primary) !important;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  font-size: 0.88em;
+  line-height: 1.6;
+}
+
+/* Ensure all code text is readable */
+.theme-dark .markdown-preview-view pre,
+.theme-dark .markdown-reading-view pre {
+  background-color: var(--codify-bg-tertiary) !important;
+}
+
+.theme-dark .markdown-preview-view pre code,
+.theme-dark .markdown-reading-view pre code,
+.theme-dark .markdown-preview-view code[class*="language-"],
+.theme-dark .markdown-reading-view code[class*="language-"] {
+  color: var(--codify-text-primary) !important;
+}
+
+/* Code block line numbers if present */
+.theme-dark .HyperMD-codeblock {
+  color: var(--codify-text-primary) !important;
+  background-color: var(--codify-bg-tertiary) !important;
+}
+
+/* --- Bold text: make it pop --- */
+.theme-dark strong {
+  color: var(--codify-text-primary);
+  font-weight: 700;
+}
+
+/* --- Links: internal wiki links --- */
+.theme-dark .internal-link {
+  color: var(--codify-link);
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(88, 166, 255, 0.3);
+}
+
+.theme-dark .internal-link:hover {
+  color: var(--codify-accent-warm);
+  border-bottom-color: var(--codify-accent-warm);
+}
+
+/* --- Tags --- */
+.theme-dark .tag {
+  background-color: var(--tag-background);
+  color: var(--codify-tag);
+  border-radius: 3px;
+  padding: 2px 8px;
+  font-size: 0.85em;
+}
+
+/* --- YAML Frontmatter: subtle --- */
+.theme-dark .frontmatter-container {
+  background-color: var(--codify-bg-secondary);
+  border: 1px solid var(--codify-border-subtle);
+  border-radius: 6px;
+  padding: 8px 12px;
+}
+
+.theme-dark .frontmatter-container .frontmatter-section-label {
+  color: var(--codify-text-muted);
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* --- Horizontal rules --- */
+.theme-dark hr {
+  border: none;
+  border-top: 1px solid var(--codify-border);
+  margin: 2em 0;
+}
+
+/* --- Checkboxes: for dashboard tracking --- */
+.theme-dark input[type="checkbox"] {
+  accent-color: var(--codify-accent);
+}
+
+.theme-dark input[type="checkbox"]:checked + span {
+  color: var(--codify-text-muted);
+}
+
+/* --- Status bar: minimal --- */
+.theme-dark .status-bar {
+  background-color: var(--codify-bg-secondary);
+  border-top: 1px solid var(--codify-border-subtle);
+  color: var(--codify-text-muted);
+  font-size: 0.75em;
+}
+
+/* --- Tab header: clean --- */
+.theme-dark .workspace-tab-header-container {
+  background-color: var(--codify-bg-secondary);
+  border-bottom: 1px solid var(--codify-border);
+}
+
+.theme-dark .workspace-tab-header.is-active {
+  background-color: var(--codify-bg-primary);
+  border-bottom: 2px solid var(--codify-accent);
+}
+
+/* --- Hide Obsidian branding --- */
+
+/* Hide the vault name in title bar (shows as window title instead) */
+.theme-dark .titlebar-text {
+  visibility: hidden;
+}
+
+.theme-dark .titlebar-text::after {
+  content: "Codify";
+  visibility: visible;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--codify-text-secondary);
+}
+
+/* Hide "Obsidian" from help/about if visible */
+.theme-dark .modal-title:not(:empty) {
+  font-weight: 600;
+}
+
+/* --- Graph view: branded --- */
+.theme-dark .graph-view.color-fill {
+  color: var(--codify-accent);
+}
+
+.theme-dark .graph-view.color-line {
+  color: var(--codify-border);
+}
+
+.theme-dark .graph-view.color-text {
+  color: var(--codify-text-secondary);
+}
+
+.theme-dark .graph-view.color-fill-highlight {
+  color: var(--codify-accent-warm);
+}
+
+/* --- Scrollbar: subtle --- */
+.theme-dark ::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.theme-dark ::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.theme-dark ::-webkit-scrollbar-thumb {
+  background-color: var(--codify-border);
+  border-radius: 3px;
+}
+
+.theme-dark ::-webkit-scrollbar-thumb:hover {
+  background-color: var(--codify-text-muted);
+}
+
+/* --- Dataview tables (dashboard styling) --- */
+.theme-dark .dataview.table-view-table th {
+  background-color: var(--codify-bg-tertiary);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 0.05em;
+  color: var(--codify-accent);
+}
+
+.theme-dark .dataview.table-view-table td {
+  font-size: 0.9em;
+}
+
+/* --- Callouts: for vault status messages --- */
+.theme-dark .callout[data-callout="tip"] {
+  --callout-color: 88, 166, 255;
+}
+
+.theme-dark .callout[data-callout="warning"] {
+  --callout-color: 210, 153, 34;
+}
+
+.theme-dark .callout[data-callout="info"] {
+  --callout-color: 139, 148, 158;
+}
+
+/* Custom callout: context-power */
+.theme-dark .callout[data-callout="context"] {
+  --callout-color: 210, 168, 255;
+  --callout-icon: lucide-brain;
+}
+
+/* Custom callout: compound-loop */
+.theme-dark .callout[data-callout="compound"] {
+  --callout-color: 63, 185, 80;
+  --callout-icon: lucide-trending-up;
+}
+
+/* --- Empty state: welcome message --- */
+.theme-dark .empty-state-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* --- Modal dialogs: cleaner --- */
+.theme-dark .modal {
+  background-color: var(--codify-bg-secondary);
+  border: 1px solid var(--codify-border);
+  border-radius: 8px;
+}
+
+/* --- Tooltip --- */
+.theme-dark .tooltip {
+  background-color: var(--codify-bg-tertiary);
+  border: 1px solid var(--codify-border);
+  color: var(--codify-text-primary);
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+/* --- Print / Export: clean for client reports --- */
+@media print {
+  body {
+    background: white;
+    color: #1a1a1a;
+  }
+
+  h1 {
+    border-bottom: 2px solid #1a1a1a;
+  }
+
+  h3 {
+    color: #0366d6;
+  }
+
+  th {
+    background-color: #f6f8fa;
+    border-bottom: 2px solid #0366d6;
+  }
+
+  blockquote {
+    border-left: 3px solid #0366d6;
+    background-color: #f6f8fa;
+  }
+
+  a::after {
+    content: none;
+  }
+}

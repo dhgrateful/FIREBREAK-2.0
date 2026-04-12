@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "",
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "codify-brand"
+  ],
+  "nativeMenus": true,
+  "showViewHeader": true
+}

@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "decisions",
+  "attachmentFolderPath": "_attachments",
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "_architect/",
+    "_attachments/"
+  ]
+}

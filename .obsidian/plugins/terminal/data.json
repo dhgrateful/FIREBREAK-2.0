@@ -1,0 +1,27 @@
+{
+  "language": "en",
+  "profiles": [
+    {
+      "name": "Codify Engine",
+      "type": "integrated",
+      "executable": "",
+      "args": [],
+      "platforms": {
+        "darwin": {
+          "executable": "/bin/zsh"
+        },
+        "win32": {
+          "executable": "powershell.exe"
+        },
+        "linux": {
+          "executable": "/bin/bash"
+        }
+      },
+      "useWin32Conhost": false,
+      "pythonExecutable": "python3",
+      "startupCommands": []
+    }
+  ],
+  "newInstanceBehavior": "replaceTab",
+  "noticeTimeout": 5
+}
