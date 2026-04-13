@@ -21,13 +21,14 @@ A senior leader with deep domain expertise. Their institutional knowledge — fr
 ## Skills
 
 All work runs through skills in `.claude/skills/`:
-- `/start` — Welcome screen. Shows vault state and what to do next
+- `/brief` — Welcome back + morning brief. Vault state, recent changes, recommended focus
 - `/setup` — Personalize a new vault
 - `/extract` — Context Extraction interviews (soul, audience, offer, voice)
 - `/import` — Mine existing documents (proposals, emails, website copy) into Context files
 - `/enrich` — Deepen thin Context files with follow-up questions
-- `/generate` — Generate high-fidelity outputs (ads, emails, proposals) from Context files
-- `/ad` — Generate ad copy (Meta/Facebook/Instagram)
+- `/think` — Research, decide, and codify. Strategic reasoning before generating
+- `/ad` — Create ads: full pipeline, copy only, hooks/variations, video scripts, review
+- `/vsl` — Write video sales letter scripts (5-20 min, camera-ready)
 - `/email` — Generate email sequences (cold, warm, nurture)
 - `/content` — Generate content for any platform (LinkedIn, blog, newsletter, X/Twitter, Instagram)
 - `/proposal` — Generate client proposal
@@ -40,15 +41,17 @@ All work runs through skills in `.claude/skills/`:
 - `/snapshot` — Rapid extraction from a voice note, call transcript, or business summary
 - `/research` — Research a prospect, competitor, market trend
 - `/scout` — Cross-reference context against market signals, surface opportunities
-- `/brief` — Morning brief: vault health, open tasks, recommended focus
 - `/audit` — Check vault health
 - `/security` — Vault security audit, red team simulation, hardening report
-- `/gate` — Check/set tier gating for skill access
 - `/publish` — Push outputs to live channels (Focus tier)
 - `/campaign` — Full pipeline: ad + email + content + landing, then distribute (Focus tier)
 - `/repurpose` — Take one output, create versions for every channel (Focus tier)
 - `/update` — Pull latest Codify skills and system updates (never touches client data)
 - `/openclaw` — Set up OpenClaw autonomous operations (Focus tier, architect-only)
+
+## Tier Gating
+
+The client's tier is stored in `reference/core/.tier` (plain text: `trial`, `pro`, `vip`). Skills check this before executing. The architect sets it during `/setup`.
 
 ## File Conventions
 
