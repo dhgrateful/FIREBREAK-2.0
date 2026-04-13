@@ -1,9 +1,3 @@
----
-type: reference
-status: active
-date: 2026-04-12
----
-
 # Getting Started with Your Vault
 
 Your vault is a living system. It starts with four files and grows into something no competitor can replicate — a complete map of your expertise that generates content, handles objections, writes proposals, and thinks like you.
@@ -61,11 +55,11 @@ Once your four files have content, the vault starts working for you:
 - Try: `/email cold outreach to [your audience]`
 
 ### Week 2 — First Decisions
-- After a meeting or call, capture what you decided:
+- After a meeting or call, capture what happened:
   ```
-  /decide We're focusing on [market segment] because [reason]
+  /follow-up Had a call with [prospect] — discussed [topic]
   ```
-- Decisions go into the **Decisions** folder with dates and reasoning
+- Log strategic decisions as files in the **Decisions** folder with dates and reasoning
 - The AI reads these before generating anything, so your outputs stay aligned with your strategy
 
 ### Week 3 — Research Starts Compounding
@@ -124,11 +118,11 @@ You don't need to do anything complicated. Here's what most clients do:
 - The AI shows you what changed overnight, what needs attention, and what to focus on
 
 **After a meeting or call**
-- Type `/decide [what you decided]` or `/follow-up [what was discussed]`
+- Type `/follow-up [what was discussed]`
 - Takes 30 seconds. Saves weeks of lost context.
 
 **When you need content**
-- Type `/draft LinkedIn post about [topic]` or `/email sequence for [audience]`
+- Type `/content LinkedIn post about [topic]` or `/email sequence for [audience]`
 - The AI reads your full vault before writing. No more "write me a post about leadership" with zero context.
 
 **On WhatsApp**
@@ -144,22 +138,25 @@ These are the commands available in your chat panel. Type `/` to see them all.
 
 | Command | What it does |
 |---------|-------------|
-| `/brief` | Morning briefing — vault health, recent changes, recommended focus |
+| `/start` | Welcome screen — vault state and what to do next |
 | `/extract` | Fill in Context files through conversation |
 | `/import` | Mine existing documents into Context files |
-| `/draft` | Write content for any platform |
-| `/research` | Investigate a topic using vault context |
-| `/decide` | Record a strategic decision |
-| `/audit` | Check what needs attention in your vault |
-| `/search` | Find files related to a topic |
-| `/voice` | Check if content matches your voice profile |
-| `/activity` | Show recent vault changes |
-| `/content` | Generate platform-specific content |
+| `/enrich` | Deepen thin Context files with follow-up questions |
+| `/content` | Generate content for any platform (LinkedIn, blog, newsletter) |
 | `/email` | Generate email sequences |
-| `/proposal` | Generate a client proposal |
 | `/ad` | Generate ad copy |
-| `/campaign` | Full pipeline — ad + email + post + landing page |
+| `/proposal` | Generate a client proposal |
+| `/landing` | Generate landing page copy |
+| `/case-study` | Turn a client win into a formatted case study |
 | `/follow-up` | Write a follow-up after a meeting |
+| `/objection` | Handle a sales objection using your context |
+| `/pitch` | Elevator pitch, event intro, podcast bio |
+| `/research` | Investigate a topic using vault context |
+| `/brief` | Morning briefing — vault health, recent changes, recommended focus |
+| `/audit` | Check what needs attention in your vault |
+| `/snapshot` | Rapid extraction from a voice note or call transcript |
+| `/generate` | Generate outputs (ads, emails, proposals) from your Context files |
+| `/campaign` | Full pipeline — ad + email + post + landing page |
 
 ---
 
@@ -174,8 +171,4 @@ These are the commands available in your chat panel. Type `/` to see them all.
 
 ## Questions?
 
-Message your Pocket Architect on WhatsApp or type `/brief` in the chat panel. The AI knows your vault and can answer questions about what's there, what's missing, and what to do next.
-
----
-
-*Your expertise is your competitive advantage. The vault makes sure it compounds instead of sitting in your head.*
+Message your Pocket Architect on WhatsApp or type `/brief` in the chat panel.
