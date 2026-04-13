@@ -138,13 +138,15 @@ These are the commands available in your chat panel. Type `/` to see them all.
 
 | Command | What it does |
 |---------|-------------|
-| `/start` | Welcome screen — vault state and what to do next |
+| `/brief` | Welcome back + morning briefing — vault state, recent changes, what to do next |
 | `/extract` | Fill in Context files through conversation |
 | `/import` | Mine existing documents into Context files |
 | `/enrich` | Deepen thin Context files with follow-up questions |
+| `/think` | Research, decide, and codify — work through a question before acting |
+| `/ad` | Create ads — copy, hooks, video scripts, creative variations |
+| `/vsl` | Write video sales letter scripts (5-20 min, camera-ready) |
 | `/content` | Generate content for any platform (LinkedIn, blog, newsletter) |
 | `/email` | Generate email sequences |
-| `/ad` | Generate ad copy |
 | `/proposal` | Generate a client proposal |
 | `/landing` | Generate landing page copy |
 | `/case-study` | Turn a client win into a formatted case study |
@@ -152,10 +154,8 @@ These are the commands available in your chat panel. Type `/` to see them all.
 | `/objection` | Handle a sales objection using your context |
 | `/pitch` | Elevator pitch, event intro, podcast bio |
 | `/research` | Investigate a topic using vault context |
-| `/brief` | Morning briefing — vault health, recent changes, recommended focus |
 | `/audit` | Check what needs attention in your vault |
 | `/snapshot` | Rapid extraction from a voice note or call transcript |
-| `/generate` | Generate outputs (ads, emails, proposals) from your Context files |
 | `/campaign` | Full pipeline — ad + email + post + landing page |
 
 ---
