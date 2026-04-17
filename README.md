@@ -1,5 +1,13 @@
 # Your Business Brain
 
+> **Status notice (2026-04-17).** This template uses Codify's **v0** vault structure (`reference/`, `decisions/`, `research/` with frontmatter, dashboards). It still serves customers onboarded before Jun 9 2026. A **v1** schema ships Jun 9 — a `.codify/` folder (SOUL.md / VOICE.md / AUDIENCE.md / DECISIONS.md / EVOLUTION.md) that any AI tool reads directly via the new Codify CLI + adapter system.
+>
+> **In-flight customers:** your existing vault keeps working. No forced migration.
+>
+> **New customers post Jun 9:** you'll receive the v1 `.codify/` schema instead.
+
+---
+
 30 years of expertise. One vault. Every decision, insight, and framework you've built — captured, connected, and compounding.
 
 This is your Context Architecture. The AI reads it before generating anything, so your outputs sound like you, not a generic chatbot.
