@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "private-industry-hold-the-line",
+    "title": "FIREBREAK \u2014 Private Industry \u2014 Hold the Line",
+    "tag": "Private Industry",
+    "file": "../../outputs/emails/private-industry-hold-the-line.html"
+  },
+  {
+    "slug": "private-industry-water-liability",
+    "title": "FIREBREAK \u2014 Private Industry \u2014 Where Water Is a Liability",
+    "tag": "Private Industry",
+    "file": "../../outputs/emails/private-industry-water-liability.html"
+  },
+  {
+    "slug": "private-industry-protect-the-asset",
+    "title": "FIREBREAK \u2014 Private Industry \u2014 Protect the Asset",
+    "tag": "Private Industry",
+    "file": "../../outputs/emails/private-industry-protect-the-asset.html"
+  },
+  {
+    "slug": "private-industry-followup",
+    "title": "FIREBREAK \u2014 Private Industry \u2014 Follow-up (+3d)",
+    "tag": "Private Industry",
+    "file": "../../outputs/emails/private-industry-followup.html"
+  },
+  {
+    "slug": "prescribed-burns-steer-the-burn",
+    "title": "FIREBREAK \u2014 Prescribed Burns \u2014 Steer the Burn",
+    "tag": "Prescribed Burns",
+    "file": "../../outputs/emails/prescribed-burns-steer-the-burn.html"
+  },
+  {
+    "slug": "prescribed-burns-weather-window",
+    "title": "FIREBREAK \u2014 Prescribed Burns \u2014 Beat the Weather Window",
+    "tag": "Prescribed Burns",
+    "file": "../../outputs/emails/prescribed-burns-weather-window.html"
+  },
+  {
+    "slug": "prescribed-burns-for-the-preserve",
+    "title": "FIREBREAK \u2014 Prescribed Burns \u2014 For the Preserve",
+    "tag": "Prescribed Burns",
+    "file": "../../outputs/emails/prescribed-burns-for-the-preserve.html"
+  },
+  {
+    "slug": "prescribed-burns-followup",
+    "title": "FIREBREAK \u2014 Prescribed Burns \u2014 Follow-up (+3d)",
+    "tag": "Prescribed Burns",
+    "file": "../../outputs/emails/prescribed-burns-followup.html"
+  },
+  {
+    "slug": "wildfire-no-water-required",
+    "title": "FIREBREAK \u2014 Wildfire \u2014 No Water Required",
+    "tag": "Wildfire",
+    "file": "../../outputs/emails/wildfire-no-water-required.html"
+  },
+  {
+    "slug": "wildfire-protect-the-structures",
+    "title": "FIREBREAK \u2014 Wildfire \u2014 Protect the Structures",
+    "tag": "Wildfire",
+    "file": "../../outputs/emails/wildfire-protect-the-structures.html"
+  },
+  {
+    "slug": "wildfire-reduce-exposure",
+    "title": "FIREBREAK \u2014 Wildfire \u2014 Reduce Firefighter Exposure",
+    "tag": "Wildfire",
+    "file": "../../outputs/emails/wildfire-reduce-exposure.html"
+  },
+  {
+    "slug": "wildfire-followup",
+    "title": "FIREBREAK \u2014 Wildfire \u2014 Follow-up (+3d)",
+    "tag": "Wildfire",
+    "file": "../../outputs/emails/wildfire-followup.html"
+  }
+]
