@@ -1,0 +1,1122 @@
+[
+ {
+  "Region": "Southeast",
+  "Organization": "Florida Forest Service",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "FL",
+  "Likely Buyer Titles": "State Fire Management Officer; Prescribed Fire Program Manager; Assistant Director of Forest Protection; Wildfire Mitigation Chief",
+  "Priority Band": "A",
+  "Priority Score": "92"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Georgia Forestry Commission",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Chief of Forest Protection; Prescribed Fire Program Manager; Fire Management Officer",
+  "Priority Band": "A",
+  "Priority Score": "92"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Alabama Forestry Commission",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "AL",
+  "Likely Buyer Titles": "State Forester; Fire Division Director; Prescribed Fire Coordinator",
+  "Priority Band": "A",
+  "Priority Score": "90"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Mississippi Forestry Commission",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "MS",
+  "Likely Buyer Titles": "Fire Chief; Prescribed Burning Program Manager; Forest Protection Director",
+  "Priority Band": "A",
+  "Priority Score": "90"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "South Carolina Forestry Commission",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Fire Chief; Prescribed Fire Coordinator; Forest Protection Chief",
+  "Priority Band": "A",
+  "Priority Score": "90"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "North Carolina Forest Service",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Fire Chief; Prescribed Fire Program Head; Forest Protection Branch Head",
+  "Priority Band": "A",
+  "Priority Score": "90"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Tennessee Division of Forestry",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "TN",
+  "Likely Buyer Titles": "State Fire Chief; Prescribed Fire Coordinator; Forest Protection Manager",
+  "Priority Band": "B",
+  "Priority Score": "80"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Virginia Department of Forestry",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "VA",
+  "Likely Buyer Titles": "Director of Fire and Emergency Response; Prescribed Burn Program Manager",
+  "Priority Band": "B",
+  "Priority Score": "80"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Arkansas Department of Agriculture Forestry Division",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "AR",
+  "Likely Buyer Titles": "State Forester; Fire Management Chief; Prescribed Fire Coordinator",
+  "Priority Band": "B",
+  "Priority Score": "78"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Louisiana Department of Agriculture and Forestry Office of Forestry",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "LA",
+  "Likely Buyer Titles": "Assistant Commissioner of Forestry; Fire Management Officer; Prescribed Fire Coordinator",
+  "Priority Band": "B",
+  "Priority Score": "78"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Texas A&M Forest Service",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "TX",
+  "Likely Buyer Titles": "Fire Chief; Prescribed Fire Program Leader; Regional Fire Coordinator",
+  "Priority Band": "B",
+  "Priority Score": "80"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Kentucky Division of Forestry",
+  "Site / Property": "Statewide fire management",
+  "Segment": "State Forestry Agency",
+  "Geography": "KY",
+  "Likely Buyer Titles": "State Forester; Fire Management Branch Manager; Prescribed Fire Coordinator",
+  "Priority Band": "C",
+  "Priority Score": "68"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Georgia Department of Natural Resources Wildlife Resources Division",
+  "Site / Property": "Wildlife Management Areas",
+  "Segment": "State Wildlife Agency",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Prescribed Fire Coordinator; Regional Wildlife Supervisor; WMA Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "82"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Florida Fish and Wildlife Conservation Commission",
+  "Site / Property": "Wildlife Management Areas",
+  "Segment": "State Wildlife Agency",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Prescribed Fire Program Administrator; Land Management Section Leader; Burn Boss",
+  "Priority Band": "B",
+  "Priority Score": "82"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "South Carolina Department of Natural Resources",
+  "Site / Property": "Wildlife Management Areas",
+  "Segment": "State Wildlife Agency",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Prescribed Fire Coordinator; Wildlife Land Manager; Regional Land Steward",
+  "Priority Band": "B",
+  "Priority Score": "78"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "North Carolina Wildlife Resources Commission",
+  "Site / Property": "Game Lands",
+  "Segment": "State Wildlife Agency",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Prescribed Fire Coordinator; Land Management Biologist; Game Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "76"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Alabama Department of Conservation and Natural Resources",
+  "Site / Property": "Wildlife Management Areas",
+  "Segment": "State Wildlife Agency",
+  "Geography": "AL",
+  "Likely Buyer Titles": "Prescribed Fire Coordinator; WMA Manager; Land Steward",
+  "Priority Band": "B",
+  "Priority Score": "74"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Nature Conservancy in Florida",
+  "Site / Property": "Preserves statewide",
+  "Segment": "Conservation NGO",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Fire Manager; Prescribed Fire Program Director; Director of Stewardship; Burn Boss",
+  "Priority Band": "A",
+  "Priority Score": "94"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Nature Conservancy in Georgia",
+  "Site / Property": "Preserves statewide",
+  "Segment": "Conservation NGO",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Fire Manager; Director of Stewardship; Burn Boss; Land Steward",
+  "Priority Band": "A",
+  "Priority Score": "92"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Nature Conservancy in Alabama",
+  "Site / Property": "Preserves statewide",
+  "Segment": "Conservation NGO",
+  "Geography": "AL",
+  "Likely Buyer Titles": "Fire Manager; Director of Stewardship; Prescribed Fire Specialist",
+  "Priority Band": "A",
+  "Priority Score": "90"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Nature Conservancy in South Carolina",
+  "Site / Property": "Preserves statewide",
+  "Segment": "Conservation NGO",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Fire Manager; Director of Stewardship; Burn Boss",
+  "Priority Band": "A",
+  "Priority Score": "90"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Nature Conservancy in North Carolina",
+  "Site / Property": "Preserves statewide",
+  "Segment": "Conservation NGO",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Fire Manager; Director of Stewardship; Prescribed Fire Specialist",
+  "Priority Band": "A",
+  "Priority Score": "90"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Nature Conservancy in Mississippi",
+  "Site / Property": "Preserves statewide",
+  "Segment": "Conservation NGO",
+  "Geography": "MS",
+  "Likely Buyer Titles": "Fire Manager; Director of Stewardship; Burn Boss",
+  "Priority Band": "A",
+  "Priority Score": "88"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Tall Timbers Research Station and Land Conservancy",
+  "Site / Property": "Red Hills region",
+  "Segment": "Research and Education",
+  "Geography": "FL/GA",
+  "Likely Buyer Titles": "Fire Ecology Program Director; Prescribed Fire Program Manager; Stewardship Director; Research Station Director",
+  "Priority Band": "A",
+  "Priority Score": "95"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Jones Center at Ichauway",
+  "Site / Property": "Ichauway (Newton, GA)",
+  "Segment": "Research and Education",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Director of Conservation; Prescribed Fire Manager; Land Manager; Fire Ecologist",
+  "Priority Band": "A",
+  "Priority Score": "92"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Longleaf Alliance",
+  "Site / Property": "Regional longleaf restoration",
+  "Segment": "Conservation NGO",
+  "Geography": "AL/Multi-state",
+  "Likely Buyer Titles": "Director of Fire; Prescribed Fire Specialist; Restoration Program Manager; Executive Director",
+  "Priority Band": "A",
+  "Priority Score": "93"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Forest Stewards Guild",
+  "Site / Property": "Southeast fire program",
+  "Segment": "Conservation NGO",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Southeast Fire Manager; Prescribed Fire Program Director; Burn Boss",
+  "Priority Band": "B",
+  "Priority Score": "78"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "National Wild Turkey Federation",
+  "Site / Property": "Regional habitat program",
+  "Segment": "Conservation NGO",
+  "Geography": "SC/Multi-state",
+  "Likely Buyer Titles": "Director of Conservation Operations; Prescribed Fire Specialist; Regional Biologist",
+  "Priority Band": "B",
+  "Priority Score": "80"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Quail Forever",
+  "Site / Property": "Southeast habitat program",
+  "Segment": "Conservation NGO",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Regional Representative; Farm Bill Biologist; Prescribed Fire Specialist",
+  "Priority Band": "B",
+  "Priority Score": "74"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Conservation Fund",
+  "Site / Property": "Southeast working forests",
+  "Segment": "Conservation NGO",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Forestland Manager; Stewardship Director; Land Steward",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Ducks Unlimited",
+  "Site / Property": "Southern Region conservation lands",
+  "Segment": "Conservation NGO",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Director of Conservation Programs; Regional Biologist; Land Steward",
+  "Priority Band": "C",
+  "Priority Score": "66"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Nokuse Plantation",
+  "Site / Property": "Walton County, FL",
+  "Segment": "Private Conservation Land",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Land Manager; Prescribed Fire Manager; Director of Land Management",
+  "Priority Band": "B",
+  "Priority Score": "82"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Nemours Wildlife Foundation",
+  "Site / Property": "ACE Basin, SC",
+  "Segment": "Private Conservation Land",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Land Manager; Wildlife Biologist; Prescribed Fire Manager",
+  "Priority Band": "B",
+  "Priority Score": "76"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Pebble Hill Plantation",
+  "Site / Property": "Thomasville, GA (Red Hills)",
+  "Segment": "Plantation / Private Land",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Land Manager; Property Manager; Burn Boss",
+  "Priority Band": "B",
+  "Priority Score": "74"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Orton Plantation",
+  "Site / Property": "Winnabow, NC",
+  "Segment": "Plantation / Private Land",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Land Manager; Forestry Manager; Burn Boss",
+  "Priority Band": "C",
+  "Priority Score": "66"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Brosnan Forest",
+  "Site / Property": "Dorchester County, SC",
+  "Segment": "Plantation / Private Land",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Forest Manager; Land Manager; Prescribed Fire Lead",
+  "Priority Band": "C",
+  "Priority Score": "66"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Weyerhaeuser",
+  "Site / Property": "Southern Timberlands",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Silviculture Manager; Regional Forester; Prescribed Fire Coordinator; Land Manager",
+  "Priority Band": "A",
+  "Priority Score": "88"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Rayonier",
+  "Site / Property": "Southern timberland operations",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "FL/GA/Multi-state",
+  "Likely Buyer Titles": "Director of Forest Operations; Silviculture Manager; Regional Forester",
+  "Priority Band": "A",
+  "Priority Score": "88"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "PotlatchDeltic",
+  "Site / Property": "Southern timberlands",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "AR/Multi-state",
+  "Likely Buyer Titles": "Silviculture Manager; Area Forester; Land Management Director",
+  "Priority Band": "A",
+  "Priority Score": "84"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Westervelt Company",
+  "Site / Property": "Southern timberlands",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "AL",
+  "Likely Buyer Titles": "Director of Forestry; Silviculture Manager; Land Manager",
+  "Priority Band": "A",
+  "Priority Score": "84"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Resource Management Service LLC",
+  "Site / Property": "Southern timberlands",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "AL/Multi-state",
+  "Likely Buyer Titles": "Regional Forester; Silviculture Manager; Land Management Director",
+  "Priority Band": "A",
+  "Priority Score": "84"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Molpus Woodlands Group",
+  "Site / Property": "Southern timberlands",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "MS/Multi-state",
+  "Likely Buyer Titles": "Regional Manager; Area Forester; Silviculture Manager",
+  "Priority Band": "A",
+  "Priority Score": "82"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "American Forest Management",
+  "Site / Property": "Managed private forestland",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "SC/Multi-state",
+  "Likely Buyer Titles": "Regional Manager; Consulting Forester; Prescribed Fire Coordinator",
+  "Priority Band": "A",
+  "Priority Score": "86"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "F&W Forestry Services",
+  "Site / Property": "Managed private forestland",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "GA/Multi-state",
+  "Likely Buyer Titles": "Regional Manager; Consulting Forester; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "80"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Milliken Forestry Company",
+  "Site / Property": "Managed private forestland",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Registered Forester; Land Manager; Operations Manager",
+  "Priority Band": "B",
+  "Priority Score": "74"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Larson & McGowin",
+  "Site / Property": "Managed private forestland",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "AL",
+  "Likely Buyer Titles": "Forest Manager; Consulting Forester; Operations Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Canal Wood LLC",
+  "Site / Property": "Managed private forestland",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "NC/Multi-state",
+  "Likely Buyer Titles": "Procurement Forester; Land Manager; Operations Manager",
+  "Priority Band": "C",
+  "Priority Score": "66"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Forest Investment Associates",
+  "Site / Property": "Southern timberlands",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "GA/Multi-state",
+  "Likely Buyer Titles": "Portfolio Forester; Regional Manager; Silviculture Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Conservation Forestry",
+  "Site / Property": "Southern conservation timberlands",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "NC/Multi-state",
+  "Likely Buyer Titles": "Land Manager; Stewardship Forester; Operations Manager",
+  "Priority Band": "C",
+  "Priority Score": "64"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Woodland Works",
+  "Site / Property": "Buena Vista, GA (GA/AL/FL Panhandle)",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "GA/AL/FL",
+  "Likely Buyer Titles": "Owner; Operations Manager; Burn Boss",
+  "Priority Band": "B",
+  "Priority Score": "80"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "TreeShop LLC",
+  "Site / Property": "Central Florida",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Owner; Operations Manager; Project Manager",
+  "Priority Band": "B",
+  "Priority Score": "76"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Biotic Environmental Solutions",
+  "Site / Property": "AL/FL/GA longleaf lands",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "AL/FL/GA",
+  "Likely Buyer Titles": "Owner; Operations Manager; Land Services Manager",
+  "Priority Band": "B",
+  "Priority Score": "74"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "3 Rivers Forestry",
+  "Site / Property": "Northern Neck, VA",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "VA",
+  "Likely Buyer Titles": "Owner; Consulting Forester; Burn Boss",
+  "Priority Band": "C",
+  "Priority Score": "62"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Green Man Forest Management",
+  "Site / Property": "Warrenton, VA",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "VA",
+  "Likely Buyer Titles": "Owner; Forest Manager; Burn Boss",
+  "Priority Band": "C",
+  "Priority Score": "60"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Clearwater Environmental Services",
+  "Site / Property": "Shacklefords, VA",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "VA",
+  "Likely Buyer Titles": "Owner; Project Manager; Operations Lead",
+  "Priority Band": "C",
+  "Priority Score": "60"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Southern Woods and Wildlife",
+  "Site / Property": "Statewide, VA",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "VA",
+  "Likely Buyer Titles": "Owner; Wildlife Manager; Burn Boss",
+  "Priority Band": "C",
+  "Priority Score": "60"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Wildland Forestry and Environmental Inc",
+  "Site / Property": "Southside Virginia",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "VA",
+  "Likely Buyer Titles": "Owner; Operations Manager; Burn Boss",
+  "Priority Band": "C",
+  "Priority Score": "60"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Alabama Prescribed Fire Council",
+  "Site / Property": "Statewide network",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "AL",
+  "Likely Buyer Titles": "Chair; Coordinator; Executive Committee Member",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Georgia Prescribed Fire Council",
+  "Site / Property": "Statewide network",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Chair; Coordinator; Executive Committee Member",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Mississippi Prescribed Fire Council",
+  "Site / Property": "Statewide network",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "MS",
+  "Likely Buyer Titles": "Chair; Coordinator; Executive Committee Member",
+  "Priority Band": "C",
+  "Priority Score": "64"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "North Carolina Prescribed Fire Council",
+  "Site / Property": "Statewide network",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Chair; Coordinator; Executive Committee Member",
+  "Priority Band": "C",
+  "Priority Score": "64"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "South Carolina Prescribed Fire Council",
+  "Site / Property": "Statewide network",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Chair; Coordinator; Executive Committee Member",
+  "Priority Band": "C",
+  "Priority Score": "64"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Southern Fire Exchange",
+  "Site / Property": "Regional fire science delivery",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Coordinator; Program Director; Outreach Lead",
+  "Priority Band": "C",
+  "Priority Score": "62"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Southern Group of State Foresters",
+  "Site / Property": "Regional coordination",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Executive Director; Fire Committee Chair; Program Manager",
+  "Priority Band": "C",
+  "Priority Score": "62"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Warnell School of Forestry and Natural Resources University of Georgia",
+  "Site / Property": "Research forests + extension",
+  "Segment": "University / Extension",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Extension Fire Specialist; Research Forest Manager; Prescribed Fire Extension Coordinator",
+  "Priority Band": "B",
+  "Priority Score": "76"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Auburn University College of Forestry Wildlife and Environment",
+  "Site / Property": "Research forests + extension",
+  "Segment": "University / Extension",
+  "Geography": "AL",
+  "Likely Buyer Titles": "Extension Fire Specialist; Research Forest Manager; Prescribed Fire Coordinator",
+  "Priority Band": "B",
+  "Priority Score": "74"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "University of Florida IFAS",
+  "Site / Property": "Research forests + extension",
+  "Segment": "University / Extension",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Extension Fire Specialist; Research Forest Manager; Prescribed Fire Extension Coordinator",
+  "Priority Band": "B",
+  "Priority Score": "74"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Clemson University",
+  "Site / Property": "Experimental forest + extension",
+  "Segment": "University / Extension",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Extension Forester; Research Forest Manager; Fire Specialist",
+  "Priority Band": "C",
+  "Priority Score": "66"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Mississippi State University",
+  "Site / Property": "Research forests + extension",
+  "Segment": "University / Extension",
+  "Geography": "MS",
+  "Likely Buyer Titles": "Extension Forestry Specialist; Research Forest Manager; Fire Specialist",
+  "Priority Band": "C",
+  "Priority Score": "66"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "North Carolina State University College of Natural Resources",
+  "Site / Property": "Research forests + extension",
+  "Segment": "University / Extension",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Extension Fire Specialist; Research Forest Manager; Prescribed Fire Coordinator",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Stephen F Austin State University",
+  "Site / Property": "Research forests + extension",
+  "Segment": "University / Extension",
+  "Geography": "TX",
+  "Likely Buyer Titles": "Research Forest Manager; Fire Ecology Faculty; Extension Forester",
+  "Priority Band": "C",
+  "Priority Score": "62"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Eglin Air Force Base Jackson Guard",
+  "Site / Property": "Natural Resources Branch, FL Panhandle",
+  "Segment": "Military / DoD",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Prescribed Fire Program Manager; Wildland Fire Program Manager; Natural Resources Chief",
+  "Priority Band": "B",
+  "Priority Score": "78"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Fort Stewart",
+  "Site / Property": "Fish and Wildlife Branch, GA",
+  "Segment": "Military / DoD",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Prescribed Fire Program Manager; Forestry Program Manager; Wildland Fire Chief",
+  "Priority Band": "B",
+  "Priority Score": "74"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Fort Liberty",
+  "Site / Property": "Endangered Species Branch, NC",
+  "Segment": "Military / DoD",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Prescribed Fire Program Manager; Forestry Branch Chief; Wildland Fire Program Manager",
+  "Priority Band": "C",
+  "Priority Score": "66"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Marine Corps Base Camp Lejeune",
+  "Site / Property": "Environmental Management Division, NC",
+  "Segment": "Military / DoD",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Wildland Fire Program Manager; Forestry Program Manager; Natural Resources Chief",
+  "Priority Band": "C",
+  "Priority Score": "64"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Fort Moore",
+  "Site / Property": "Land Management Branch, GA",
+  "Segment": "Military / DoD",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Prescribed Fire Program Manager; Land Management Chief; Forestry Program Manager",
+  "Priority Band": "C",
+  "Priority Score": "64"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Avon Park Air Force Range",
+  "Site / Property": "Natural Resources, FL",
+  "Segment": "Military / DoD",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Prescribed Fire Program Manager; Natural Resources Manager; Wildland Fire Lead",
+  "Priority Band": "C",
+  "Priority Score": "62"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Southern Forestry Consultants",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "AL/FL/MS/NC/SC",
+  "Likely Buyer Titles": "Consulting Forester; Certified Prescribed Burner; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Matre Forestry Consulting",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Consulting Forester; Prescribed Burn Manager; Owner",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Forest Resource Consultants",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Regional Manager; Consulting Forester; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Edward F. Travis Company",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "AL",
+  "Likely Buyer Titles": "Consulting Forester; Land Manager; Registered Forester",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "National Land Realty",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Forestry Management / Consulting",
+  "Geography": "SC/Multi-state",
+  "Likely Buyer Titles": "Land Professional; Forestry Specialist; Regional Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "ArborGen",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Silviculture Manager; Regional Forester; Operations Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Superior Pine Products Company",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Land Manager; Forester; Operations Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Beasley Forest Products",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Procurement Forester; Land Manager; Operations Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Enviva",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "NC/Multi-state",
+  "Likely Buyer Titles": "Director of Forestry; Fiber Procurement Forester; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Drax Group",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Regional Fiber Manager; Forestry Manager; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Timberland Investment Resources",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "GA/Multi-state",
+  "Likely Buyer Titles": "Regional Forester; Silviculture Manager; Portfolio Forester",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Campbell Global",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Regional Manager; Silviculture Forester; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Domain Timber Advisors",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "GA/Multi-state",
+  "Likely Buyer Titles": "Forest Manager; Regional Forester; Operations Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Timbervest",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "GA/Multi-state",
+  "Likely Buyer Titles": "Portfolio Forester; Regional Manager; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Hancock Natural Resource Group",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Regional Forester; Silviculture Manager; Land Steward",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Manulife Investment Management Timberland",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Regional Forester; Silviculture Manager; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Interfor",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Woodlands Manager; Procurement Forester; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "West Fraser",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Timber / TIMO / REIT",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Woodlands Manager; Fiber Procurement Forester; Land Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Georgia-Alabama Land Trust",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "GA/AL",
+  "Likely Buyer Titles": "Stewardship Director; Land Steward; Preserve Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "North Florida Land Trust",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Director of Stewardship; Land Manager; Preserve Steward",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Lowcountry Land Trust",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "SC",
+  "Likely Buyer Titles": "Stewardship Director; Land Manager; Burn Boss",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Atlantic Coast Conservancy",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Stewardship Director; Land Manager; Preserve Steward",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Piedmont Land Conservancy",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "NC",
+  "Likely Buyer Titles": "Stewardship Director; Land Steward; Preserve Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Open Space Institute",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Southeast Field Coordinator; Stewardship Manager; Land Steward",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Conservation Trust for Florida",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Stewardship Director; Land Manager; Preserve Steward",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "The Georgia Conservancy",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Director of Stewardship; Land Conservation Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "American Bird Conservancy",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "Multi-state",
+  "Likely Buyer Titles": "Prescribed Fire Specialist; Habitat Program Manager; Land Steward",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "National Deer Association",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Conservation NGO",
+  "Geography": "GA/Multi-state",
+  "Likely Buyer Titles": "Director of Conservation; Habitat Program Manager; Field Biologist",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Turner Enterprises",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Plantation / Private Land",
+  "Geography": "GA/Multi-state",
+  "Likely Buyer Titles": "Natural Resource Manager; Land Manager; Burn Boss",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "White Oak Pastures",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Plantation / Private Land",
+  "Geography": "GA",
+  "Likely Buyer Titles": "Land Manager; Grazing and Burn Manager; Operations Manager",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Babcock Ranch Preserve",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Plantation / Private Land",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Preserve Manager; Land Steward; Prescribed Fire Lead",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Alabama Prescribed Burn Association",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "AL",
+  "Likely Buyer Titles": "President; Coordinator; Board Member",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Central Florida Prescribed Fire Council",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Prescribed Fire Council",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Chair; Coordinator; Steering Committee Member",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Coldwater Consulting",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Owner; Prescribed Fire Manager; Burn Boss",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ },
+ {
+  "Region": "Southeast",
+  "Organization": "Wildland Restoration International",
+  "Site / Property": "Rx-fire land management",
+  "Segment": "Rx-Burn Contractor",
+  "Geography": "FL",
+  "Likely Buyer Titles": "Owner; Operations Manager; Burn Boss",
+  "Priority Band": "B",
+  "Priority Score": "72"
+ }
+]
